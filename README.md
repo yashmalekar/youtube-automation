@@ -1,24 +1,24 @@
-# Project Name - _Project Author (Change Me)_
+# YouTube Automation - _Yash Malekar_
 
-## Project Name and Description:
-A concise yet descriptive title and an overview of the project’s purpose.
+## Project Description:
+This Project automates Youtube using Selenium to check the Films, Music and News tab.
 
 ## Installation Instructions:
-Clear steps to set up and run the project locally.
-> Example:
+1. Install Latest Java JDK-17 version.
+
+2. Install Gradle latest version.
+
+3. Install VSCode.
+
+4. Install Java Extensions in VSCode.
+
+4. To run the project type the below code.
+> cmd:
 ```
-# java version 17
-java --version
+gradlew run
 ```
 
-## Usage and Examples:
-Provide sample code or usage scenarios to showcase how the project works.
-> Example:
+>bash:
 ```
-# to run the project
 ./gradlew run
 ```
-
-## Important Links:
-Details about useful external links
- 
